@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7a779b2a3388d40aa25570656bda7d, type: 3}
+  m_Name: Ch03_FPS_IKSetting_AR
+  m_EditorClassIdentifier: 
+  leftForwardAxis: {x: 0, y: 1, z: 0}
+  leftUpAxis: {x: 0, y: 0, z: -1}
+  leftHandPosOffset: {x: -0.0015283646, y: 0.017596018, z: -0.0058676824}
+  leftHandRotOffset: {x: 306.78827, y: 153.17859, z: 302.26556}
+  leftTwistOffset: 0
+  rightForwardAxis: {x: 0, y: 1, z: 0}
+  rightUpAxis: {x: 0, y: 0, z: -1}
+  rightHandPosOffset: {x: 0.03149843, y: -0.011124087, z: -0.012539421}
+  rightHandRotOffset: {x: 80.17561, y: 268.4866, z: 182.7382}
+  rightTwistOffset: 0
+  weight: 1
+  twistWeight: 1
+  maxTwistLimit: 75
